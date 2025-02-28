@@ -17,7 +17,7 @@
 name: Static Site CI
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 */3 * * *"  # Exécution toutes les 3 heures
   repository_dispatch:
     types: [static_site]
   workflow_dispatch:
@@ -30,7 +30,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}
+          ref: master
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Generate site
         uses: upptime/uptime-monitor@v1.39.0
