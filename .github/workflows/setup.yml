@@ -30,7 +30,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}
+          ref: master
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Update template
         uses: upptime/uptime-monitor@v1.39.0
