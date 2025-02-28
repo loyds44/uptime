@@ -4,6 +4,8 @@ repo: uptime   # Le nom de votre dépôt
 sites:
   - name: Linksta
     url: https://linksta.cc/@loyds44
+  - name: Google
+    url: https://www.google.com/
 
 status-website:
   baseUrl: /uptime
