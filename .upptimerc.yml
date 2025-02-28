@@ -1,5 +1,5 @@
 owner: loyds44 # Votre nom d'utilisateur GitHub
-repo: uptime # Le nom de votre dépôt
+repo: uptime   # Le nom de votre dépôt
 
 sites:
   - name: Linksta
@@ -13,6 +13,6 @@ status-website:
   introMessage: This page shows the uptime status of our monitored sites.
   navbar:
     - title: Status
-      href: /
+      href: /uptime/       
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/loyds44/uptime
