@@ -17,7 +17,7 @@
 name: Graphs CI
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */3 * * *"    # Exécution toutes les 3 heures
   repository_dispatch:
     types: [graphs]
   workflow_dispatch:
