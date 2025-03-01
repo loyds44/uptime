@@ -6,11 +6,13 @@ sites:
     url: https://linksta.cc/@loyds44
   - name: Google
     url: https://www.google.com/
+  - name: Discord
+    url: https://discord.com/
 
 status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime Status
+  name: Upptime Status Loyds44
   introTitle: "**Upptime** status page"
   introMessage: This page shows the uptime status of our monitored sites.
   navbar:
