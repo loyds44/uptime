@@ -27,6 +27,6 @@ workflowSchedule:
   responseTime: "*/5 * * * *"     # Enregistrement du temps de réponse toutes les 5 minutes
   graphs: "*/10 * * * *"          # Génération des graphiques toutes les 10 minutes
   staticSite: "*/15 * * * *"      # Mise à jour du site toutes les 15 minutes
-  summary: "0 0 * * *"            # Mise à jour du résumé (par défaut, une fois par jour)
+  summary: "0 */2 * * *"         # Mise à jour du résumé toutes les 2 heures
   updateTemplate: "0 0 * * *"     # Mise à jour du template (par défaut, une fois par jour)
   updates: "0 3 * * *"            # Autres mises à jour (par défaut)
