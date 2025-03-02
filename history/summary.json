@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 952,
-    "timeDay": 910,
+    "timeDay": 913,
     "timeWeek": 952,
     "timeMonth": 952,
     "timeYear": 952,
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 106,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 108,
+    "timeDay": 108,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Fake Site",
-    "url": "https://cesitenexistepasfake.ko.co",
-    "icon": "https://icons.duckduckgo.com/ip3/cesitenexistepasfake.ko.co.ico",
-    "slug": "fake-site",
-    "status": "down",
-    "uptime": "0.75%",
-    "uptimeDay": "0.75%",
-    "uptimeWeek": "0.75%",
-    "uptimeMonth": "0.75%",
-    "uptimeYear": "0.75%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-03-02": 0
-    }
   }
 ]
