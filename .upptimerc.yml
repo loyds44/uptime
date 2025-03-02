@@ -8,8 +8,6 @@ sites:
     url: https://www.google.com/
   - name: Discord
     url: https://discord.com/
-  - name: Fake Site
-    url: https://cesitenexistepasfake.ko.co
 
 status-website:
   baseUrl: /uptime
