@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/linksta.cc.ico",
     "slug": "linksta",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 934,
-    "timeDay": 824,
+    "timeDay": 826,
     "timeWeek": 924,
     "timeMonth": 934,
     "timeYear": 934,
-    "dailyMinutesDown": {
-      "2025-03-27": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -31,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 111,
+    "timeDay": 110,
     "timeWeek": 117,
     "timeMonth": 109,
     "timeYear": 109,
