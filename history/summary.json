@@ -4,20 +4,18 @@
     "url": "https://linksta.cc/@loyds44",
     "icon": "https://icons.duckduckgo.com/ip3/linksta.cc.ico",
     "slug": "linksta",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 927,
-    "timeDay": 813,
-    "timeWeek": 888,
-    "timeMonth": 927,
+    "timeDay": 814,
+    "timeWeek": 887,
+    "timeMonth": 926,
     "timeYear": 927,
-    "dailyMinutesDown": {
-      "2025-03-29": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -31,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 113,
+    "timeDay": 112,
     "timeWeek": 115,
     "timeMonth": 109,
     "timeYear": 109,
