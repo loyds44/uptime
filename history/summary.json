@@ -6,18 +6,16 @@
     "slug": "linksta",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 931,
-    "timeDay": 1048,
-    "timeWeek": 906,
-    "timeMonth": 931,
-    "timeYear": 931,
-    "dailyMinutesDown": {
-      "2025-03-30": 1
-    }
+    "time": 932,
+    "timeDay": 1059,
+    "timeWeek": 908,
+    "timeMonth": 932,
+    "timeYear": 932,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -49,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 106,
+    "timeDay": 105,
     "timeWeek": 107,
     "timeMonth": 106,
     "timeYear": 106,
