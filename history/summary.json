@@ -4,19 +4,19 @@
     "url": "https://linksta.cc/@loyds44",
     "icon": "https://icons.duckduckgo.com/ip3/linksta.cc.ico",
     "slug": "linksta",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 931,
-    "timeDay": 1049,
+    "timeDay": 1048,
     "timeWeek": 906,
     "timeMonth": 931,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2025-03-30": 0
+      "2025-03-30": 1
     }
   },
   {
