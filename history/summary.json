@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1406,
-    "timeDay": 1177,
+    "timeDay": 1176,
     "timeWeek": 1424,
     "timeMonth": 1371,
     "timeYear": 1406,
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 92,
+    "timeDay": 93,
     "timeWeek": 98,
     "timeMonth": 103,
     "timeYear": 104,
@@ -44,17 +44,15 @@
     "slug": "discord",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
     "timeDay": 141,
-    "timeWeek": 162,
+    "timeWeek": 161,
     "timeMonth": 157,
     "timeYear": 124,
-    "dailyMinutesDown": {
-      "2025-06-27": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
