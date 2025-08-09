@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1350,
-    "timeDay": 1232,
-    "timeWeek": 1068,
-    "timeMonth": 1120,
-    "timeYear": 1350,
+    "time": 1349,
+    "timeDay": 1223,
+    "timeWeek": 1061,
+    "timeMonth": 1119,
+    "timeYear": 1349,
     "dailyMinutesDown": {
       "2025-04-14": 99
     }
@@ -44,13 +44,13 @@
     "slug": "discord",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "85.04%",
+    "uptimeDay": "91.11%",
     "uptimeWeek": "85.91%",
     "uptimeMonth": "96.59%",
     "uptimeYear": "99.36%",
     "time": 137,
     "timeDay": 177,
-    "timeWeek": 200,
+    "timeWeek": 199,
     "timeMonth": 182,
     "timeYear": 137,
     "dailyMinutesDown": {
