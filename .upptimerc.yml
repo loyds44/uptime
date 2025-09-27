@@ -1,5 +1,5 @@
-owner: loyds44 # Votre nom d'utilisateur GitHub
-repo: uptime   # Le nom de votre dépôt
+owner: loyds44
+repo: uptime
 
 sites:
   - name: Linksta
@@ -21,12 +21,12 @@ status-website:
     - title: GitHub
       href: https://github.com/loyds44/uptime
 
-# Planification des workflows (en syntaxe cron)
+# Planification optimisée des workflows (cron)
 workflowSchedule:
-  uptime: "*/5 * * * *"         # Vérification de l'uptime toutes les 5 minutes
-  responseTime: "*/5 * * * *"     # Enregistrement du temps de réponse toutes les 5 minutes
-  graphs: "*/10 * * * *"          # Génération des graphiques toutes les 10 minutes
-  staticSite: "*/15 * * * *"      # Mise à jour du site toutes les 15 minutes
-  summary: "0 */2 * * *"         # Mise à jour du résumé toutes les 2 heures
-  updateTemplate: "0 0 * * *"     # Mise à jour du template (par défaut, une fois par jour)
-  updates: "0 3 * * *"            # Autres mises à jour (par défaut)
+  uptime: "*/10 * * * *"         # Vérification de l'uptime toutes les 10 min 
+  responseTime: "*/15 * * * *"   # Temps de réponse toutes les 15 min 
+  graphs: "0,30 * * * *"         # Graphiques deux fois par heure 
+  staticSite: "0 * * * *"        # Update site toutes les heures 
+  summary: "0 0,12 * * *"        # Résumé deux fois/jour 
+  updateTemplate: "0 2 * * *"    # Template maintenu à une fois/jour (ou moins)
+  updates: "0 3 * * *"           # Autres maj inchangées
