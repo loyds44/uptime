@@ -23,10 +23,11 @@ status-website:
 
 # Planification optimisée des workflows (cron)
 workflowSchedule:
-  uptime: "*/10 * * * *"         # Vérification de l'uptime toutes les 10 min 
-  responseTime: "*/15 * * * *"   # Temps de réponse toutes les 15 min 
-  graphs: "0,30 * * * *"         # Graphiques deux fois par heure 
-  staticSite: "0 * * * *"        # Update site toutes les heures 
-  summary: "0 0,12 * * *"        # Résumé deux fois/jour 
-  updateTemplate: "0 2 * * *"    # Template maintenu à une fois/jour (ou moins)
-  updates: "0 3 * * *"           # Autres maj inchangées
+  uptime: "*/5 * * * *"           # Vérification uptime toutes les 5 minutes
+  responseTime: "*/10 * * * *"    # Temps de réponse toutes les 10 minutes
+  graphs: "0 0,6,12,18 * * *"    # Graphiques 4 fois par jour (minuit, 6h, midi, 18h)
+  staticSite: "0 1 * * *"         # Mise à jour du site une fois par jour à 1h
+  summary: "0 0 * * 0"            # Résumé hebdo chaque dimanche à minuit
+  updateTemplate: "0 3 * * 1"     # Mise à jour template lundi à 3h du matin
+  updates: "0 4 * * 1"            # Autres mises à jour lundi à 4h du matin
+
